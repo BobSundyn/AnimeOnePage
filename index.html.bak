@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Anime</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+
+<body>
+    <main id="principal">
+
+        <header id="topo">
+            <figure id="banner"></figure>
+
+            <nav id="menu">
+                <ul>
+                    <a href="#menu">
+                        <li>HOME</li>
+                    </a>
+                    <a href="#conteudo_centro">
+                        <li>ANIMES</li>
+                    </a>
+                    <a href="#mapa">
+                        <li>EVENTOS</li>
+                    </a>
+                    <a href="#sugestoes">
+                        <li>SUGESTÕES</li>
+                    </a>
+                </ul>
+            </nav>
+        </header>
+
+
+        <section id="corpo">
+
+            <section id="conteudo">
+
+                <section id="conteudo_esquerdo">
+                    <anside id="link" class="link">
+                        <p>aqui vamos colocar os sites dos nossos animes usando o nav</p>
+                    </anside>
+                    <br>
+                    <anside id="link" class="link">
+                        <p>aqui vamos colocar os sites dos nossos animes usando o nav</p>
+                    </anside>
+                    <br>
+                    <anside id="link" class="link">
+                        <p>aqui vamos colocar os sites dos nossos animes usando o nav</p>
+                    </anside>
+
+
+                </section>
+
+
+                <section id="conteudo_centro">
+                    <div id="subtitulo">
+                        <h1>MELHORES ANIMES</h1>
+                    </div>
+                    <section>
+                        <div>
+                            <h2>Death Note</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Dorohedoro</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Fullmetal Alchemist Brotherhood</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Nanatsu no Taizai</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Naruto Shipudden</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>One Punch Man</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Shingeki no kyojin</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Tokyo Ghoul</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                        <div>
+                            <h2>Violet Evergarden</h2>
+                            <h3>Melhor Abertura</h3>
+                            <h4>Musica Completa</h4>
+                        </div>
+                    </section>
+
+
+                </section>
+
+                <section id="conteudo_direito"></section>
+
+
+
+
+            </section>
+
+            <section id="mapa">
+                <section>
+                    <h5>LOCAIS MAIS FAMOSOS ONDE OCORREM AS ANIMEEXTREME NO BRASIL</h5>
+
+                    <!--<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13824.054364989608!2d-51.1115245!3d-29.9790394!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ab525747d945724!2sCentro%20de%20Eventos%20FIERGS!5e0!3m2!1spt-BR!2sbr!4v1616559249332!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+               <h2>proximos eventos... -->
+                </section>
+            </section>
+
+        </section>
+
+
+
+
+        <footer id="sugestoes">
+            <form>
+                <h6>QUER RECEBER NOTIFICAÇÕES DE SUGESTÕES EM SEU E-MAIL E FICAR POR DENTRO DAS NOVIDADES ? PREENCHA OS
+                    CAMPOS À SEGUIR E NÃO PERCA A OPORTUNIDADE DE SER NOTIFICADO E PARCITIPAR DOS EVENTOS </h6>
+                <fieldset>
+                    <label>Nome:</label>
+                    <input type="text">
+
+                    <label>Idade:</label>
+                    <input type="number">
+
+                    <label>E-mail:</label>
+                    <input type="email">
+                </fieldset>
+            </form>
+
+        </footer>
+
+
+    </main>
+</body>
+
+</html>
